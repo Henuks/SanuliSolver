@@ -20,7 +20,7 @@ for word in rawwordlist:
     if word.isalpha():
         wordlist.append(word)
 lettercount=5
-print("Valmis!")
+print("Valmis")
 print("Kirjoita /ohje ohjeisiin tai /poistu poistuaksesi")
 while True:
     phase=0
